@@ -1,0 +1,16 @@
+{
+  "name": "Website-Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Amit Ray",
+  "license": "ISC",
+  "homepage": "https://ar89.github.io/website-test",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
